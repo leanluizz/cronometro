@@ -14,6 +14,7 @@ function Start(){
 
 function Close (){
    clearInterval(cron);
+   document.querySelector(".timing").innerHTML = `${(h < 10 ? "0" + h : h)}:${(m < 10 ? "0" + m : m)}:${(s < 10 ? "0" + s : s)}`
    h = 0
    m = 0
    s = 0
