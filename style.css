@@ -24,12 +24,12 @@ h1{
 }
 button{
     border-radius: 50%;
-    height: 4vw;
-    width: 4vw;
+    height: 5vw;
+    width: 5vw;
     color: rgb(0, 0, 0);
     box-shadow: 3px 3px black;
     font-family: "Digital";
-    font-size: 1.5vw;
+    font-size: 2vw;
     font-weight: bolder;
 }
 .green-button{
@@ -56,5 +56,12 @@ button{
     font-family:"Digital";
     color: white;
     text-shadow: 2px 2px black;
+    margin: auto;
+}
+.timing{
+    font-family: "Digital";
+    font-size: 7vw;
+    text-shadow: 2px 2px black;
+    color: white;
     margin: auto;
 }
