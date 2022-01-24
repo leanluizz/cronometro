@@ -63,5 +63,6 @@ button{
     font-size: 5vw;
     text-shadow: 2px 2px black;
     color: white;
+    margin-top:5vw;
     margin: auto;
 }
