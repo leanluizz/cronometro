@@ -1,7 +1,7 @@
 # Cronometro
-This timer has been maked with HTML-CSS and JavaScript for ends of studyng and show my evolution in Web Programmingg
+<h1>This timer has been maked with HTML-CSS and JavaScript for ends of studyng and show my evolution in Web Programmingg</h1>
 
-Technologies using:
+<h2>Technologies using:</h2>
 
 🔶 - HTML
 
@@ -12,3 +12,4 @@ Technologies using:
 Example:
 
 <img src="https://raw.githubusercontent.com/leanluizz/Cronometro/principal/PHOTO-Landing-Page-Cr%C3%B4nometro.png" alt="PHOTO-CRONOMETRO" width="500vw">
+<a href="https://leanluizz.github.io/Cronometro/">Layout Link
