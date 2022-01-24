@@ -59,10 +59,12 @@ button{
     margin: auto;
 }
 .timing{
+    position: absolute;
+    top: 70%;
+    left: 38%;
     font-family: "Digital";
-    font-size: 5vw;
+    font-size: 7vw;
     text-shadow: 2px 2px black;
     color: white;
-    margin-top:5vw;
     margin: auto;
 }
