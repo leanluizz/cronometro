@@ -10,4 +10,5 @@ Technologies using:
 💛 - JavaScript
 
 Example:
-<img src="https://raw.githubusercontent.com/leanluizz/Cronometro/principal/PHOTO-Landing-Page-Cr%C3%B4nometro.png" alt="PHOTO-CRONOMETRO" width="300vw">
+
+<img src="https://raw.githubusercontent.com/leanluizz/Cronometro/principal/PHOTO-Landing-Page-Cr%C3%B4nometro.png" alt="PHOTO-CRONOMETRO" width="500vw">
