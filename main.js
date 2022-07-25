@@ -3,12 +3,11 @@
 var h = 0
 var m = 0
 var s = 0
-var tempo = 1000
+var time = 1000
 var cron;
 
 function Start(){
-  cron = setInterval(() => {timer()}, tempo);
-  
+  cron = setInterval(() => {Timer()}, time);
 }
 
 
@@ -21,7 +20,7 @@ function Close (){
    document.querySelector(".crononumbers").innerHTML = "00:00:00"
 }
 
-function timer (){
+function Timer (){
      s++;
 if (s == 60) {
     s = 0
@@ -39,6 +38,6 @@ if (s == 60) {
 }
 
 var RedButton = document.querySelector(".red-button")
-RedButton.addEventListener("click", function Fechar(){
+RedButton.addEventListener("click", function Closer(){
     Close()
 })
