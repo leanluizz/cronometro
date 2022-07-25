@@ -11,6 +11,6 @@
 
 Example:
 
-<img src="https://raw.githubusercontent.com/leanluizz/Timer/principal/Timer/assets/image/PHOTO-Landing-Page-Cr%C3%B4nometro.png" alt="PHOTO-CRONOMETRO" width="500vw">
+<img src="https://raw.githubusercontent.com/leanluizz/Timer/main/assets/image/PHOTO-Landing-Page-Cr%C3%B4nometro.png" alt="PHOTO-CRONOMETRO" width="500vw">
 
 Project Layout: <a href="https://leanluizz.github.io/Timer/">Layout Link
