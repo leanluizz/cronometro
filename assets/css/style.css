@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "Digital";
+    src: url("../fonts/digital-7\ \(italic\).ttf")
+    format("truetype");
+    font-weight: "normal";
+    font-style: normal;
+}
+
+body{
+    background-color: rgb(218, 218, 14);
+}
+h1{
+    text-align: center;
+    font-family: "Digital";
+    font-size: 5vw;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+.flex-box{
+    display: flex;
+    position: absolute;
+    left: 20%;
+    top: 40%;
+}
+button{
+    border-radius: 50%;
+    height: 5vw;
+    width: 5vw;
+    color: rgb(0, 0, 0);
+    box-shadow: 3px 3px black;
+    font-family: "Digital";
+    font-size: 2vw;
+    font-weight: bolder;
+}
+.green-button{
+    background-color: greenyellow;
+    border: 2px solid black;
+}
+.red-button{
+    background-color: red;
+    border: 2px solid rgb(252, 252, 252);
+}
+.box{
+    background-color: rgba(214, 43, 43, 0);
+    width: 50vw;
+    height: 15vw;
+    text-align: center;
+    overflow: hidden;
+}
+.crononumbers{
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    outline: none;
+    font-size: 9vw;
+    width: 50vw;
+    font-family:"Digital";
+    color: white;
+    text-shadow: 2px 2px black;
+    margin: auto;
+}
+.timing{
+    position: absolute;
+    top: 70%;
+    left: 38%;
+    font-family: "Digital";
+    font-size: 7vw;
+    text-shadow: 2px 2px black;
+    color: white;
+    margin: auto;
+}
